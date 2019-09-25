@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FeedPumpController", "FeedPumpController.cproj", "{4E89E4E5-782E-4C60-8332-A45682B16FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E89E4E5-782E-4C60-8332-A45682B16FEF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4E89E4E5-782E-4C60-8332-A45682B16FEF}.Debug|AVR.Build.0 = Debug|AVR
+		{4E89E4E5-782E-4C60-8332-A45682B16FEF}.Release|AVR.ActiveCfg = Release|AVR
+		{4E89E4E5-782E-4C60-8332-A45682B16FEF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
