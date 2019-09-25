@@ -1,6 +1,7 @@
 # Feed Pump Controller
 Feed pump controller for water treatment used Atmel ATtiny4313.
 <br><br>
+Контроллер дозирующего насоса для водоподготовки (обезжелезивания).<br><br>
 На экране:<br>
 Строки:<br>
 1: текущее потребление в м3/ч -> потребленное после последней регенерации в м3;<br>
