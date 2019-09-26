@@ -36,3 +36,6 @@ Feed pump controller for water treatment used Atmel ATtiny4313.
 12. Минимальное кол-во литров на регенерацию (меньше - авария)
 13. Время пролива воды в сек, не больше 58!
 14. Максимальный расход воды на пролив в литрах
+<br><br>
+Схема водоподготовки:<br>
+![image](https://user-images.githubusercontent.com/6220128/65678007-41143580-e05b-11e9-9f80-7e81d38299be.png)
